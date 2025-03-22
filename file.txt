@@ -2,5 +2,9 @@ This is a new file
 Updated new file
 New Branch commit
 Local file update
+<<<<<<< HEAD
 New upate
 Updated from github
+=======
+Updated in test branch
+>>>>>>> test
